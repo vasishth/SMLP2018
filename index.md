@@ -1,4 +1,4 @@
-## Welcome to The Second Summer School on Statistical Methods for Linguistics and Psychology, 2018, 10-14 September
+## The Second Summer School on Statistical Methods for Linguistics and Psychology, 2018, 10-14 September
 
 
 We are happy to announce The Second Summer School on Statistical Methods for Linguistics and Psychology, to be held in Potsdam, Germany from September 10-14 2018. This second edition of the summer school will have a strong Bayesian focus. However, since some people may prefer to work in the frequentist paradigm, there will be two parallel tracks: frequentist and Bayesian statistics. These will be aimed at linguists and psychologists, but are relevant for cognitive scientists in general. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
