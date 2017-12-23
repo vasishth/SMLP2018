@@ -49,7 +49,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 ## Summer school instructors and assistants
 
 Instructors:
-[Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
+[Audrey Bürki-Foschini](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html),
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
 [Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad),
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
