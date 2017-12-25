@@ -11,12 +11,9 @@ We will mainly focus on modeling repeated measures data. We will discuss hierarc
 
 The summer school will consist of lectures followed by hands-on exercises. There will be several invited speakers this year. Details coming in early April 2018.
 
-### Invited speakers
+### Invited speakers 
 
-- [Sebastian Reich](http://www.math.uni-potsdam.de/~sreich/): An advanced lecture on Hamiltonian Monte Carlo
-- [Richard Morey](http://psych.cf.ac.uk/contactsandpeople/moreyr.php)
-- [Joachim Vandekerckhove](http://web1.ss.uci.edu/~joachim/)
-- to-be-confirmed [Michael Betancourt](https://betanalpha.github.io/)
+coming soon
 
 ## Computing equipment and preparation for summer school
 
