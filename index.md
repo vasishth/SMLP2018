@@ -103,7 +103,8 @@ psychologists, linguists, and cognitive scientists.
 [code and data](http://www.ling.uni-potsdam.de/~vasishth/statistics/BayesLMMs.html)
 - Bruno Nicenboim, Timo B. Roettger, and Shravan Vasishth. Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German. Submitted to Journal of Phonetics, 2017.
 [pdf](https://osf.io/g5ndw/)
-- Bruno Nicenboim, Shravan Vasishth, Felix Engelmann, and Katja Suckow. Exploratory and confirmatory analyses in sentence processing: A case study of number interference in German. Cognitive Science, 2018. Acccepted pending minor revisions. [pdf](https://osf.io/mmr7s/)
+- Bruno Nicenboim, Shravan Vasishth, Felix Engelmann, and Katja Suckow. Exploratory and confirmatory analyses in sentence processing: A case study of number interference in German. Cognitive Science, 2018. [pdf](https://osf.io/mmr7s/)
+- Shravan Vasishth, Daniela Mertzen, Lena A. Jäger, and Andrew Gelman. The statistical significance filter leads to overoptimistic expectations of replicability. 2018. [pdf](https://psyarxiv.com/hbqcw)
 
 ### Lecture notes
 
