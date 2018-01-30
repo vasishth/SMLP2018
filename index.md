@@ -25,7 +25,7 @@ This will appear in August 2018.
 The summer school is intended for participants who have data analysis experience (especially, experience with linear mixed models is assumed), but want to work with state-of-the-art Bayesian and frequentist methods.
 We will assume that participants should be comfortable with the material presented in [this article](https://github.com/vasishth/VasishthNicenboimPart1) and these [introductory lecture notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/IntroductoryStatistics/StatisticsNotesVasishth.pdf).
 
-We will mainly focus on modeling repeated measures data. We will discuss hierarchical modeling in detail, using the generalized linear mixed modeling framework as a starting point. We will use [R](https://cran.r-project.org/) and [Stan](mc-stan.org). Participants will be assumed to have a working knowledge of R; Stan will be taught from scratch. Everyone is expected to bring their own laptop computer.
+We will mainly focus on modeling repeated measures data. We will discuss hierarchical modeling in detail, using the generalized linear mixed modeling framework as a starting point. We will use [R](https://cran.r-project.org/), the lme4 package, and [Stan](mc-stan.org). Participants will be assumed to have a working knowledge of R; Stan will be taught from scratch. Everyone is expected to bring their own laptop computer.
 
 The summer school will consist of lectures followed by hands-on exercises. 
 
@@ -46,7 +46,7 @@ This course is designed for people who want a fast entry into Bayesian data anal
 
 Taught by [Audrey Bürki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html), [Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad), [Reinhold Kliegl](http://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html)
 
-This course is designed for researchers who are interested in fitting linear mixed models using the lme4 package, but are unsure about how to proceed with advanced topics such as model selection, contrast coding, and visualizing model fit.
+This course is designed for researchers who are interested in fitting linear mixed models using the lme4 package in R, but are unsure about how to proceed with advanced topics such as model selection, contrast coding, and visualizing model fit.
 
 - Review of linear modeling theory
 - Introduction to linear mixed models
