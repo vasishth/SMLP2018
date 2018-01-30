@@ -30,7 +30,7 @@ The summer school will consist of lectures followed by hands-on exercises.
 
 ### Bayesian stream: syllabus
 
-Taught by [Michael Betancourt](https://betanalpha.github.io/) (10-14 Sept), [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) (14-15 Sept)
+Taught by [Michael Betancourt](https://betanalpha.github.io/) (10-13 Sept), [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) (13-14 Sept)
 
 This course is designed for people who want a fast entry into Bayesian data analysis and modeling using [Stan](mc-stan.org). The participants should be fairly familiar with linear modeling theory and should be experienced in fitting frequentist linear mixed models. 
 
