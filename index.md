@@ -23,6 +23,7 @@ This will appear in August 2018.
 ## Curriculum
 
 The summer school is intended for participants who have data analysis experience (especially, experience with linear mixed models is assumed), but want to work with state-of-the-art Bayesian and frequentist methods.
+We will assume that participants should be comfortable with the material presented in [this article](https://github.com/vasishth/VasishthNicenboimPart1) and these [introductory lecture notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/IntroductoryStatistics/StatisticsNotesVasishth.pdf).
 
 We will mainly focus on modeling repeated measures data. We will discuss hierarchical modeling in detail, using the generalized linear mixed modeling framework as a starting point. We will use [R](https://cran.r-project.org/) and [Stan](mc-stan.org). Participants will be assumed to have a working knowledge of R; Stan will be taught from scratch. Everyone is expected to bring their own laptop computer.
 
