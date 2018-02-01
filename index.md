@@ -3,7 +3,8 @@
 
 The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. 
 
-This second edition of the summer school will have a strong Bayesian focus. However, because many people may prefer to work in the frequentist paradigm, and because a knowledge of frequentist principles is necessary in psycholinguistics and psychology, there will be two parallel tracks: frequentist and Bayesian statistics. Both tracks will be aimed at linguists and psychologists, but are relevant for cognitive scientists working in many different areas. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
+Like the first edition, this summer school will have a Bayesian and frequentist stream. Bayesian data analysis will be taught (first four days) by Michael Betancourt, who is one of the lead developers of Stan. The frequentist stream will be led by Reinhold Kliegl, Audrey Bürki, and Daniel Schad.
+Both tracks will be aimed at linguists and psychologists, but are relevant for cognitive scientists working in many different areas. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
 
 The pace of this summer school will be intense! Participants should expect to be working hard during this one week, and to go home and review the materials after the course is over.
 
@@ -16,7 +17,11 @@ Applications will open on **15 February 2018**, and will close 1 May 2018. Decis
 There will be a **30 Euro** fee to cover expenses for coffee and snacks, to be paid on arrival in cash.
 Participants will pay for their own accommodation and travel, details on accommodation coming soon. 
 
-### Hour-by-hour schedule
+## Code of conduct
+
+All participants will be expected to follow [this code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), copied from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below).
+
+## Hour-by-hour schedule
 
 This will appear in August 2018.
 
@@ -79,12 +84,17 @@ The summer school will be held at the Griebnitzsee campus of the University of P
 
 Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
-## Summer school instructors
+## Summer school organizers and instructors
 
-Organization: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
+### Local Organisers: 
+[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
+[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/), 
+[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
+[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad)
+[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html)
 
-Instructors:
-[Audrey Bürki-Foschini](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
+### Local Instructors:
+[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
 [Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad)
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
@@ -92,7 +102,7 @@ Instructors:
 
 ## Background Reading
 
-### Articles
+### General Articles and Tutorials
 
 - Shravan Vasishth and Bruno Nicenboim. Statistical Methods for Linguistic Research: Foundational Ideas – Part I. Language and Linguistics Compass, 10(8):349-369, 2016. [code](https://github.com/vasishth/VasishthNicenboimPart1)
 - Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
