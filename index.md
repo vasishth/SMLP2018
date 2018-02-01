@@ -19,7 +19,7 @@ Participants will pay for their own accommodation and travel, details on accommo
 
 ## Code of conduct
 
-All participants will be expected to follow [this code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), copied from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below).
+All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below).
 
 ## Hour-by-hour schedule
 
