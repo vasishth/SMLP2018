@@ -3,7 +3,7 @@
 
 The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. 
 
-Like the first edition, this summer school will have a Bayesian and frequentist stream. Bayesian data analysis will be taught (first four days) by Michael Betancourt, who is one of the lead developers of Stan. The frequentist stream will be led by Reinhold Kliegl, Audrey Bürki, and Daniel Schad.
+Like the first edition, this summer school will have a Bayesian and frequentist stream. Bayesian data analysis will be taught (first four days) by Michael Betancourt, who is one of the lead developers of Stan; he will be assisted by Bruno Nicenboim and Shravan Vasishth. The frequentist stream will be led by Reinhold Kliegl, Audrey Bürki, and Daniel Schad.
 Both tracks will be aimed at linguists and psychologists, but are relevant for cognitive scientists working in many different areas. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
 
 The pace of this summer school will be intense! Participants should expect to be working hard during this one week, and to go home and review the materials after the course is over.
