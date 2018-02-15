@@ -10,7 +10,10 @@ The pace of this summer school will be intense! Participants should expect to be
 
 ## How to apply
 
-Applications will open on **15 February 2018**, and will close 1 May 2018. Decisions will be sent out **15 May 2018**. 
+Applications will open on **15 February 2018**, and will close **1 April 2018**. Decisions will be sent out **10 April 2018**. 
+
+
+**[To apply, please fill out this form](https://goo.gl/forms/6XI3w0oxOBtDaRMn1)**.
 
 ## Fees
 
