@@ -22,7 +22,7 @@ Participants will pay for their own accommodation and travel, details on accommo
 
 ## Code of conduct
 
-All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below).
+All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below). 
 
 ## Hour-by-hour schedule
 
@@ -103,7 +103,7 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
 [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
 
-## Background Reading
+## Background Material
 
 ### General Articles and Tutorials
 
@@ -127,6 +127,12 @@ These lecture notes serve as reference materials for the summer school. You are 
 - [Introductory statistics notes](https://github.com/vasishth/Statistics-lecture-notes-Potsdam/blob/master/IntroductoryStatistics/StatisticsNotesVasishth.pdf).
 - [Linear modeling lecture notes](https://github.com/vasishth/LM/blob/master/LinearModelingLectureNotes2016.pdf), and [Linear modeling quick review sheet](https://github.com/vasishth/LM/blob/master/LMSummarySheet.pdf); these cover frequentist linear models and linear mixed models more formally.
 - [Bayesian modeling using Stan](https://github.com/vasishth/FGME_Stan_2017)
+
+### Video lectures and tutorials on Bayes using Stan
+
+- [Ben Goodrich's youtube lectures (Columbia)](https://www.youtube.com/playlist?list=PLSZp9QshJ8wyPCgoQR0Kw3HDNuy1FEZH9)
+- [Richard McElreath's youtube lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
+- [Stan case studies, tutorials](http://mc-stan.org/users/documentation/index.html)
 
 
 ## Contact details
