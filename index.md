@@ -15,6 +15,8 @@ Applications will open on **15 February 2018**, and will close **1 April 2018**.
 
 <strike>To apply, please fill out this form</strike>The deadline for applications is now past. The decisions will be announced April 10 2018.
 
+There were 234 applications, which is about 100 more than in 2017.
+
 ## Fees
 
 There will be a **30 Euro** fee to cover expenses for coffee and snacks, to be paid on arrival in cash.
