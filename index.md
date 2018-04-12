@@ -15,7 +15,9 @@ Applications will open on **15 February 2018**, and will close **1 April 2018**.
 
 <strike>To apply, please fill out this form</strike>The deadline for applications is now past. The decisions will be announced April 10 2018.
 
-There were 234 applications, which is about 100 more than in 2017.
+There were 235 applications, which is about 100 more than in 2017.
+
+**Please note that decisions have been announced by email.** If you applied and didn't receive an email, please check your spam folder. If all else fails, please contact Shravan Vasishth.
 
 ## Fees
 
