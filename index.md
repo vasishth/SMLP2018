@@ -1,6 +1,11 @@
 ## Welcome to The Second Summer School on Statistical Methods for Linguistics and Psychology, 2018, 10-14 September
 
 
+## Summer School Location
+
+Griebnitzsee campus, University of Potsdam, Germany
+
+
 The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. **Note that this summer school follows the annual international <a href="http://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html">AMLaP conference</a>, which will be held in Berlin September 6-8 2018**.
 
 Like the first edition, this summer school will have a Bayesian and frequentist stream. Bayesian data analysis will be taught (first four days) by Michael Betancourt, who is one of the lead developers of Stan; he will be assisted by Bruno Nicenboim and Shravan Vasishth. The frequentist stream will be led by Reinhold Kliegl, Audrey Bürki, and Daniel Schad.
@@ -27,6 +32,11 @@ Participants will pay for their own accommodation and travel, details on accommo
 ## Code of conduct
 
 All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below). 
+
+## Hotel accommodation
+
+All the participants should have received the information about the hotels that we have booked. If not, please look at (this list)[https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing].
+
 
 ## Hour-by-hour schedule
 
