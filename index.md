@@ -39,7 +39,7 @@ All the participants should have received the information about the hotels that 
 
 ## Hour-by-hour schedule
 
-This will appear in August 2018.
+This will appear in late August 2018.
 
 ## Curriculum
 
