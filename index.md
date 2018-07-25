@@ -1,10 +1,8 @@
 ## Welcome to The Second Summer School on Statistical Methods for Linguistics and Psychology, 2018, 10-14 September
 
-
 ## Summer School Location
 
-Griebnitzsee campus, University of Potsdam, Germany
-
+[Griebnitzsee Campus, University of Potsdam, Germany](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=3)
 
 The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. **Note that this summer school follows the annual international <a href="http://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html">AMLaP conference</a>, which will be held in Berlin September 6-8 2018**.
 
@@ -35,7 +33,7 @@ All participants will be expected to follow the [code of conduct](http://mc-stan
 
 ## Hotel accommodation
 
-All the participants should have received the information about the hotels that we have booked. If not, please look at (this list)[https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing].
+All the participants should have received the information about the hotels that we have booked. If not, please look at [this list](https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing).
 
 ## Hour-by-hour schedule
 
