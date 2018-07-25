@@ -37,7 +37,6 @@ All participants will be expected to follow the [code of conduct](http://mc-stan
 
 All the participants should have received the information about the hotels that we have booked. If not, please look at (this list)[https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing].
 
-
 ## Hour-by-hour schedule
 
 This will appear in August 2018.
