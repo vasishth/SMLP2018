@@ -4,6 +4,16 @@
 
 [Griebnitzsee Campus, University of Potsdam, Germany](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=3)
 
+The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6, Rooms S17 (Frequentist stream), S18 (Bayesian stream). Invited lectures will be held in Hoersaal H01. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf)
+
+## Traveling to the University of Potsdam 
+
+Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
+
+## Hotel accommodation
+
+All the participants should have received the information about the hotels that we have booked. If not, please look at [this list](https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing).
+
 ## About the summer school
 
 The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. **Note that this summer school follows the annual international <a href="http://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html">AMLaP conference</a>, which will be held in Berlin September 6-8 2018**.
@@ -31,11 +41,7 @@ Participants will pay for their own accommodation and travel, details on accommo
 
 ## Code of conduct
 
-All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors list below). 
-
-## Hotel accommodation
-
-All the participants should have received the information about the hotels that we have booked. If not, please look at [this list](https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing).
+All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors' list below). 
 
 ## Hour-by-hour schedule
 
@@ -74,13 +80,20 @@ This course is designed for researchers who are interested in fitting linear mix
 - Model selection
 - Contrast coding and visualizing partial fixed effects
 - Shrinkage and partial pooling
+- Visualization
 
 ### Invited talks
 
 We will have two invited talks during the summer school.
 
 - [Sebastian Reich](http://www.math.uni-potsdam.de/~sreich/): Advanced lecture on Hamiltonian Monte Carlo
-- [Joachim Vandekerckhove](http://web1.ss.uci.edu/~joachim/): Lecture title to be announced
+- [Joachim Vandekerckhove](http://web1.ss.uci.edu/~joachim/): 
+
+   Cognitive latent variable models
+
+   ABSTRACT: I will discuss cognitive latent variable models, a broad category of formal models that can be used to aggregate information regarding cognitive parameters across participants and tasks. Latent structures are borrowed from a vast literature in the field of psychometrics, and robust cognitive process models can be drawn from the cognitive science literature. The new modeling approach is an extension of hierarchical modeling, allows model fitting with smaller numbers of trials per task if there are multiple participants, and is ideally suited for uncovering correlations between latent task abilities as they are expressed in experimental paradigms. Multiple examples serve to illustrate the wide applicability of this hybrid approach.
+
+   For further details on this work: [see here](https://www.sciencedirect.com/science/article/pii/S0022249614000431?via%3Dihub)
 
 ## Preparation for summer school
 
@@ -91,14 +104,6 @@ We are assuming that participants will have a very good working knowledge of R a
 ## Slides+code+data
 
 Slides etc. will appear early Sept 2018.
-
-### Location and registration
-
-The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6, Rooms S17 (Frequentist stream), S18 (Bayesian stream). Invited lectures will be held in Hoersaal H01. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf)
-
-## Traveling to the University of Potsdam 
-
-Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 ## Summer school organizers and instructors
 
@@ -118,20 +123,35 @@ Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or
 
 ## Background Material
 
-### General Articles and Tutorials
+### Overview and methodological papers
 
 - Shravan Vasishth and Bruno Nicenboim. Statistical Methods for Linguistic Research: Foundational Ideas – Part I. Language and Linguistics Compass, 10(8):349-369, 2016. [code](https://github.com/vasishth/VasishthNicenboimPart1)
 - Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
+- Shravan Vasishth, Daniela Mertzen, Lena A. Jäger, and Andrew Gelman. The statistical significance filter leads to overoptimistic expectations of replicability. 2018. [pdf](https://psyarxiv.com/hbqcw)
+
+
+### Papers relating to linear mixed modeling
+
+
+- Hannes Matuschek, Reinhold Kliegl, Shravan Vasishth, R. Harald Baayen, and Douglas Bates. Balancing Type I Error and Power in Linear Mixed Models. Journal of Memory and Language, 94:305-315, 2017. [pdf](https://www.sciencedirect.com/science/article/pii/S0749596X17300013?via%3Dihub)
+- Douglas Bates, Reinhold Kliegl, Shravan Vasishth, and Harald Baayen. Parsimonious mixed models. Unpublished manuscript, 2015. [pdf](https://arxiv.org/abs/1506.04967)
 - Tanner Sorensen, Sven Hohenstein, and Shravan Vasishth.
 Bayesian linear mixed models using Stan: A tutorial for
 psychologists, linguists, and cognitive scientists.
 *Quantitative Methods for Psychology*, 12(3):175-200, 2016.
 [pdf](http://www.tqmp.org/RegularArticles/vol12-3/p175/p175.pdf),
 [code and data](http://www.ling.uni-potsdam.de/~vasishth/statistics/BayesLMMs.html)
-- Bruno Nicenboim, Timo B. Roettger, and Shravan Vasishth. Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German. Submitted to Journal of Phonetics, 2017.
+- Shravan Vasishth, Bruno Nicenboim, Mary E. Beckman, Fangfang Li, and Eun Jong Kong. Bayesian data analysis in the phonetic sciences: A tutorial introduction. Journal of Phonetics, 2018. [pdf](https://osf.io/g4zpv/)
+- Daniel J. Schad, Sven Hohenstein, Shravan Vasishth, and Reinhold Kliegl. How to capitalize on a priori contrasts in linear (mixed) models: A tutorial. Unpublished manuscript, 2018. [pdf](https://arxiv.org/abs/1807.10451)
+
+### Examples of Bayesian data analysis and Bayesian modeling
+
+- Bruno Nicenboim, Timo B. Roettger, and Shravan Vasishth. Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German. In press, Journal of Phonetics, 2018.
 [pdf](https://osf.io/g5ndw/)
+- Lena A. Jäger, Felix Engelmann, and Shravan Vasishth. Similarity-based interference in sentence comprehension: Literature review and Bayesian meta-analysis. Journal of Memory and Language, 94:316-339, 2017. [pdf](https://doi.org/10.1016/j.jml.2017.01.004)
 - Bruno Nicenboim, Shravan Vasishth, Felix Engelmann, and Katja Suckow. Exploratory and confirmatory analyses in sentence processing: A case study of number interference in German. Cognitive Science, 2018. [pdf](https://osf.io/mmr7s/)
-- Shravan Vasishth, Daniela Mertzen, Lena A. Jäger, and Andrew Gelman. The statistical significance filter leads to overoptimistic expectations of replicability. 2018. [pdf](https://psyarxiv.com/hbqcw)
+- Bruno Nicenboim and Shravan Vasishth. Models of retrieval in sentence comprehension: A computational evaluation using Bayesian hierarchical modeling. Journal of Memory and Language, 99:1-34, 2018. [pdf](https://www.sciencedirect.com/science/article/pii/S0749596X16301577?via%3Dihub)
+
 
 ### Lecture notes
 
