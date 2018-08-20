@@ -86,12 +86,15 @@ This course is designed for researchers who are interested in fitting linear mix
 
 We will have two invited talks during the summer school.
 
-- [Sebastian Reich](http://www.math.uni-potsdam.de/~sreich/): Advanced lecture on Hamiltonian Monte Carlo
+- [Sebastian Reich](http://www.math.uni-potsdam.de/~sreich/): An introduction to Hamiltonian Monte Carlo
+
+    Background reading: [here](https://arxiv.org/abs/1711.05337)
+
 - [Joachim Vandekerckhove](http://web1.ss.uci.edu/~joachim/): 
 
-   Cognitive latent variable models
+   Title: Cognitive latent variable models
 
-   ABSTRACT: I will discuss cognitive latent variable models, a broad category of formal models that can be used to aggregate information regarding cognitive parameters across participants and tasks. Latent structures are borrowed from a vast literature in the field of psychometrics, and robust cognitive process models can be drawn from the cognitive science literature. The new modeling approach is an extension of hierarchical modeling, allows model fitting with smaller numbers of trials per task if there are multiple participants, and is ideally suited for uncovering correlations between latent task abilities as they are expressed in experimental paradigms. Multiple examples serve to illustrate the wide applicability of this hybrid approach.
+   Abstract: I will discuss cognitive latent variable models, a broad category of formal models that can be used to aggregate information regarding cognitive parameters across participants and tasks. Latent structures are borrowed from a vast literature in the field of psychometrics, and robust cognitive process models can be drawn from the cognitive science literature. The new modeling approach is an extension of hierarchical modeling, allows model fitting with smaller numbers of trials per task if there are multiple participants, and is ideally suited for uncovering correlations between latent task abilities as they are expressed in experimental paradigms. Multiple examples serve to illustrate the wide applicability of this hybrid approach.
 
    For further details on this work: [see here](https://www.sciencedirect.com/science/article/pii/S0022249614000431?via%3Dihub)
 
