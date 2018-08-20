@@ -86,7 +86,11 @@ This course is designed for researchers who are interested in fitting linear mix
 
 We will have two invited talks during the summer school.
 
-- [Sebastian Reich](http://www.math.uni-potsdam.de/~sreich/): An introduction to Hamiltonian Monte Carlo
+- [Sebastian Reich](http://www.math.uni-potsdam.de/~sreich/): 
+
+    Title: An introduction to Hamiltonian Monte Carlo
+
+    Abstract: Hamiltonian (or hybrid) Monte Carlo has become a highly popular methods for computational Bayesian inference. The talk will review the algorithmic foundation of Hamiltonian Monte Carlo and summarise some of the available choices for its implementation.
 
     Background reading: [here](https://arxiv.org/abs/1711.05337)
 
