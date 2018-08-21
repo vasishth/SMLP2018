@@ -45,7 +45,7 @@ All participants will be expected to follow the [code of conduct](http://mc-stan
 
 ## Hour-by-hour schedule
 
-This will appear in late August 2018.
+The schedule can be downloaded [here](https://github.com/vasishth/SMLP2018/blob/master/SMLP2018_schedule.pdf).
 
 ## Curriculum
 
