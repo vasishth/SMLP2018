@@ -115,18 +115,19 @@ We are assuming that participants will have a very good working knowledge of R a
 
 ## Summer school organizers and instructors
 
-### Local Organisers: 
-[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
-[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/), 
+### Organisers: 
+[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/), 
 [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
-[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad)
-[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html)
-
-### Local Instructors:
-[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
-[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
-[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad)
 [Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
+[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad), 
+[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
+
+### Instructors:
+[Michael Betancourt](https://betanalpha.github.io/), 
+[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
+[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
+[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
+[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad),
 [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
 
 ## Background Material
