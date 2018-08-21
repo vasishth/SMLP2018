@@ -43,10 +43,6 @@ Participants will pay for their own accommodation and travel, details on accommo
 
 All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors' list below). 
 
-## Hour-by-hour schedule
-
-The schedule can be downloaded [here](https://github.com/vasishth/SMLP2018/blob/master/SMLP2018_schedule.pdf).
-
 ## Curriculum
 
 The summer school is intended for participants who have data analysis experience (especially, experience with linear mixed models is assumed), but want to work with state-of-the-art Bayesian and frequentist methods.
@@ -56,9 +52,18 @@ We will mainly focus on modeling repeated measures data. We will discuss hierarc
 
 The summer school will consist of lectures followed by hands-on exercises. 
 
+### Hour-by-hour schedule
+
+The schedule can be downloaded [here](https://github.com/vasishth/SMLP2018/blob/master/SMLP2018_schedule.pdf).
+
+### Slides+code+data
+
+Slides etc. will appear early Sept 2018.
+
+
 ### Bayesian stream: syllabus
 
-Taught by [Michael Betancourt](https://betanalpha.github.io/) (10-13 Sept), [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) (13-14 Sept)
+Taught by [Michael Betancourt](https://betanalpha.github.io/) (10-13 Sept), [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) (14 Sept)
 
 This course is designed for people who want a fast entry into Bayesian data analysis and modeling using [Stan](mc-stan.org). The participants should be fairly familiar with linear modeling theory and should be experienced in fitting frequentist linear mixed models. 
 
@@ -67,11 +72,11 @@ This course is designed for people who want a fast entry into Bayesian data anal
 - Bayesian Modeling with Stan
 - Regression modeling using Stan
 - Hierarchical modeling using Stan
-- Mixture models, Bayesian cognitive modeling, and other advanced topics
+- Bayesian cognitive modeling
 
 ### Frequentist stream: syllabus
 
-Taught by [Audrey Bürki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html), [Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad), [Reinhold Kliegl](http://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html)
+Taught by [Audrey Bürki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html), [Reinhold Kliegl](http://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad) 
 
 This course is designed for researchers who are interested in fitting linear mixed models using the lme4 package in R, but are unsure about how to proceed with advanced topics such as model selection, contrast coding, and visualizing model fit.
 
@@ -107,10 +112,6 @@ We will have two invited talks during the summer school.
 We are assuming that participants will have a very good working knowledge of R and have considerable experience in fitting linear mixed models. Participants are expected to bring their own laptops. Wifi access will be available.
 
 **Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school, and that you have the R packages rstan, brms, and rstanarm installed. To install rstan, follow the instructions [here](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started).**
-
-## Slides+code+data
-
-Slides etc. will appear early Sept 2018.
 
 ## Summer school organizers and instructors
 
@@ -151,7 +152,7 @@ psychologists, linguists, and cognitive scientists.
 - Shravan Vasishth, Bruno Nicenboim, Mary E. Beckman, Fangfang Li, and Eun Jong Kong. Bayesian data analysis in the phonetic sciences: A tutorial introduction. Journal of Phonetics, 2018. [pdf](https://osf.io/g4zpv/)
 - Daniel J. Schad, Sven Hohenstein, Shravan Vasishth, and Reinhold Kliegl. How to capitalize on a priori contrasts in linear (mixed) models: A tutorial. Unpublished manuscript, 2018. [pdf](https://arxiv.org/abs/1807.10451)
 
-### Examples of Bayesian data analysis and Bayesian modeling
+### Examples of Bayesian data analysis and Bayesian modeling from our lab
 
 - Bruno Nicenboim, Timo B. Roettger, and Shravan Vasishth. Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German. In press, Journal of Phonetics, 2018.
 [pdf](https://osf.io/g5ndw/)
