@@ -36,8 +36,9 @@ There were 235 applications, which is about 100 more than in 2017.
 
 ## Fees
 
-There will be a **30 Euro** fee to cover expenses for coffee and snacks, to be paid on arrival in cash.
-Participants will pay for their own accommodation and travel, details on accommodation coming soon. 
+There will be a **30 Euro** fee to cover expenses for the two evenings (Tuesday and Thursday) of snacks, and for coffee and snacks during the breaks. International participants can pay on arrival in cash. Others have the option to pay electronically in advance to the following account: Landeshauptkasse Potsdam, IBAN: DE09 3005 0000 7110 4028 44, BIC: WELADEDDXXX.
+
+Participants will pay for their own accommodation and travel, and will have to pay for their lunch themselves.
 
 ## Code of conduct
 
@@ -95,11 +96,23 @@ We will have two invited talks during the summer school.
 
     Title: An introduction to Hamiltonian Monte Carlo
 
+    Date: 14th Sept, 2018
+
+    Time: 2-3:30PM 
+
+    Location: Hoersaal H02, Haus 6, Griebitzsee campus
+
     Abstract: Hamiltonian (or hybrid) Monte Carlo has become a highly popular methods for computational Bayesian inference. The talk will review the algorithmic foundation of Hamiltonian Monte Carlo and summarise some of the available choices for its implementation.
 
     Background reading: [here](https://arxiv.org/abs/1711.05337)
 
 - [Joachim Vandekerckhove](http://web1.ss.uci.edu/~joachim/): 
+
+    Date: 14th Sept, 2018
+
+    Time: 4-5PM 
+
+    Location: Hoersaal H02, Haus 6, Griebitzsee campus
 
    Title: Cognitive latent variable models
 
