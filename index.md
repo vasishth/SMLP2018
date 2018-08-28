@@ -4,35 +4,7 @@
 
 [Griebnitzsee Campus, University of Potsdam, Germany](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=3)
 
-The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6, Rooms S17 (Frequentist stream), S18 (Bayesian stream). Invited lectures will be held in Hoersaal H01. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf)
-
-## Traveling to the University of Potsdam 
-
-Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
-
-## Hotel accommodation
-
-All the participants should have received the information about the hotels that we have booked. If not, please look at [this list](https://drive.google.com/file/d/1v32RwpDlKjHajOcxpMplNGAvt68PMo71/view?usp=sharing).
-
-## About the summer school
-
-The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. **Note that this summer school follows the annual international <a href="http://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html">AMLaP conference</a>, which will be held in Berlin September 6-8 2018**.
-
-Like the first edition, this summer school will have a Bayesian and frequentist stream. Bayesian data analysis will be taught (first four days) by Michael Betancourt, who is one of the lead developers of Stan; he will be assisted by Bruno Nicenboim and Shravan Vasishth. The frequentist stream will be led by Reinhold Kliegl, Audrey Bürki, and Daniel Schad.
-Both tracks will be aimed at linguists and psychologists, but are relevant for cognitive scientists working in many different areas. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
-
-The pace of this summer school will be intense! Participants should expect to be working hard during this one week, and to go home and review the materials after the course is over.
-
-## How to apply
-
-Applications will open on **15 February 2018**, and will close **1 April 2018**. Decisions will be sent out **10 April 2018**. 
-
-
-<strike>To apply, please fill out this form</strike>The deadline for applications is now past. The decisions will be announced April 10 2018.
-
-There were 235 applications, which is about 100 more than in 2017.
-
-**Please note that decisions have been announced by email.** If you applied and didn't receive an email, please check your spam folder. If all else fails, please contact Shravan Vasishth.
+The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6, Rooms S17 (Frequentist stream), S18 (Bayesian stream). Invited lectures will be held in Hoersaal H01. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 ## Fees
 
@@ -43,6 +15,16 @@ Participants will pay for their own accommodation and travel, and will have to p
 ## Code of conduct
 
 All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors' list below). 
+
+## About the summer school
+
+The Second Summer School on Statistical Methods for Linguistics and Psychology will be held in Potsdam, Germany from **September 10-14 2018**. **Note that this summer school follows the annual international <a href="http://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html">AMLaP conference</a>, which will be held in Berlin September 6-8 2018**.
+
+Like the first edition, this summer school will have a Bayesian and frequentist stream. Bayesian data analysis will be taught (first four days) by Michael Betancourt, who is one of the lead developers of Stan; he will be assisted by Bruno Nicenboim and Shravan Vasishth. The frequentist stream will be led by Reinhold Kliegl, Audrey Bürki, and Daniel Schad.
+Both tracks will be aimed at linguists and psychologists, but are relevant for cognitive scientists working in many different areas. We will cover the necessary theoretical background for both statistical frameworks, and participants will get hands-on practice in learning to analyze real data sets.
+
+The pace of this summer school will be intense! Participants should expect to be working hard during this one week, and to go home and review the materials after the course is over.
+
 
 ## Curriculum
 
@@ -126,23 +108,6 @@ We are assuming that participants will have a very good working knowledge of R a
 
 **Please make sure you have the current versions of R and RStudio installed on your computer by the time you start the summer school, and that you have the R packages rstan, brms, and rstanarm installed. To install rstan, follow the instructions [here](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started).**
 
-## Summer school organizers and instructors
-
-### Organisers: 
-[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/), 
-[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
-[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
-[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad), 
-[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
-
-### Instructors:
-[Michael Betancourt](https://betanalpha.github.io/), 
-[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
-[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
-[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
-[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad),
-[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
-
 ## Background Material
 
 ### Overview and methodological papers
@@ -193,6 +158,24 @@ These lecture notes serve as reference materials for the summer school. You are 
 ## Contact details
 
 For any questions regarding this summer school, please contact [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth).
+
+## Summer school organizers and instructors
+
+### Organisers: 
+[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/), 
+[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
+[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
+[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad), 
+[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
+
+### Instructors:
+[Michael Betancourt](https://betanalpha.github.io/), 
+[Audrey Bürki](https://www.unige.ch/fapse/people/psycho/buerkifoschini/),
+[Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/), 
+[Reinhold Kliegl](http://www.psych.uni-potsdam.de/people/kliegl/index-e.html), 
+[Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad),
+[Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
+
 
 ## Funding
 
