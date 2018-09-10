@@ -179,4 +179,4 @@ For any questions regarding this summer school, please contact [Shravan Vasishth
 
 ## Funding
 
-This summer school is funded by the [DFG](dfg.de) and is part of the [SFB "Variability in Language and Its Limits"](https://www.uni-potsdam.de/sfb1287/index.html).
+This summer school is funded by the [DFG](dfg.de) and is part of the [SFB "Limits of Variability in Language"](https://www.uni-potsdam.de/sfb1287/index.html).
