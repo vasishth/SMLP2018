@@ -116,7 +116,7 @@ We are assuming that participants will have a very good working knowledge of R a
 - Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
 - Shravan Vasishth, Daniela Mertzen, Lena A. Jäger, and Andrew Gelman. The statistical significance filter leads to overoptimistic expectations of replicability. 2018. [pdf](https://psyarxiv.com/hbqcw)
 
-### Good textbooks covering fundamental ideas
+### Good textbooks and articles covering fundamental ideas
 
 This list will be extended.
 
