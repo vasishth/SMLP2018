@@ -116,6 +116,11 @@ We are assuming that participants will have a very good working knowledge of R a
 - Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
 - Shravan Vasishth, Daniela Mertzen, Lena A. Jäger, and Andrew Gelman. The statistical significance filter leads to overoptimistic expectations of replicability. 2018. [pdf](https://psyarxiv.com/hbqcw)
 
+### Good textbooks covering fundamental ideas
+
+This list will be extended.
+
+- Probability theory: [Blitzstein and Hwang](https://www.amazon.de/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=sr_1_15?ie=UTF8&qid=1536650139&sr=8-15&keywords=probability+distributions).
 
 ### Papers relating to linear mixed modeling
 
