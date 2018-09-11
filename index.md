@@ -123,6 +123,7 @@ This list will be extended.
 - Tutorial on maximum likelihood: [Myung](https://www.sciencedirect.com/science/article/pii/S0022249602000287)
 - Introduction to stats and probability: [Kerns](https://github.com/gjkerns)
 - Probability theory: [Blitzstein and Hwang](https://www.amazon.de/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=sr_1_15?ie=UTF8&qid=1536650139&sr=8-15&keywords=probability+distributions). Online course on [edx](https://www.edx.org/course/introduction-to-probability-0).
+- Betancourt articles: [here](https://betanalpha.github.io/writing/)
 
 ### Papers relating to linear mixed modeling
 
