@@ -116,10 +116,11 @@ We are assuming that participants will have a very good working knowledge of R a
 - Bruno Nicenboim and Shravan Vasishth. Statistical methods for linguistic research: Foundational Ideas - Part II. *Language and Linguistics Compass*, 10:591-613, 2016. [code](https://github.com/vasishth/NicenboimVasishthPart2)
 - Shravan Vasishth, Daniela Mertzen, Lena A. Jäger, and Andrew Gelman. The statistical significance filter leads to overoptimistic expectations of replicability. 2018. [pdf](https://psyarxiv.com/hbqcw)
 
-### Good textbooks and articles covering fundamental ideas
+### Good textbooks and articles covering fundamental ideas (mostly for Bayesian track, but also helpful for frequentist track)
 
 This list will be extended.
 
+- [Probability theory for engineers](https://betanalpha.github.io/assets/case_studies/probability_theory.html), by Michael Betancourt
 - Tutorial on maximum likelihood: [Myung](https://www.sciencedirect.com/science/article/pii/S0022249602000287)
 - Introduction to stats and probability: [Kerns](https://github.com/gjkerns)
 - Probability theory: [Blitzstein and Hwang](https://www.amazon.de/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=sr_1_15?ie=UTF8&qid=1536650139&sr=8-15&keywords=probability+distributions). Online course on [edx](https://www.edx.org/course/introduction-to-probability-0).
