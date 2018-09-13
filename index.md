@@ -1,5 +1,7 @@
 ## Welcome to The Second Summer School on Statistical Methods for Linguistics and Psychology, 2018, 10-14 September
 
+![](images/smlp2018photo.jpg?raw=true)
+
 ## Summer School Location
 
 [Griebnitzsee Campus, University of Potsdam, Germany](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=3)
