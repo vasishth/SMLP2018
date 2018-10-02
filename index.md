@@ -59,6 +59,8 @@ This course is designed for people who want a fast entry into Bayesian data anal
 - Hierarchical modeling using Stan
 - Bayesian cognitive modeling
 
+Mailing list: https://lists.uni-potsdam.de/mailman/listinfo/smlp-bayes-list
+
 ### Frequentist stream: syllabus
 
 Taught by [Audrey Bürki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html), [Reinhold Kliegl](http://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://www.researchgate.net/profile/Daniel_Schad) 
