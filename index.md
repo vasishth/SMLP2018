@@ -59,7 +59,7 @@ This course is designed for people who want a fast entry into Bayesian data anal
 - Hierarchical modeling using Stan
 - Bayesian cognitive modeling
 
-Mailing list: https://lists.uni-potsdam.de/mailman/listinfo/smlp-bayes-list
+Mailing list: [click here](https://lists.uni-potsdam.de/mailman/listinfo/smlp-bayes-list).
 
 ### Frequentist stream: syllabus
 
